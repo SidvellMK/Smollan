@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\LoginAPIUnitTests\\LoginAPIUnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\dikote.sidwell\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dikote.sidwell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI.csproj",
+        "projectName": "FinanceReportingRegistrationAPI",
+        "projectPath": "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI.csproj",
+        "packagesPath": "C:\\Users\\dikote.sidwell\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dikote.sidwell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\DataAccess\\DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\LoginAPIUnitTests\\LoginAPIUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\LoginAPIUnitTests\\LoginAPIUnitTests.csproj",
+        "projectName": "LoginAPIUnitTests",
+        "projectPath": "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\LoginAPIUnitTests\\LoginAPIUnitTests.csproj",
+        "packagesPath": "C:\\Users\\dikote.sidwell\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\LoginAPIUnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dikote.sidwell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI.csproj": {
+                "projectPath": "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+﻿@model LoginWebApp.Models.ViewModels.UserDetailsViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+<div>
+    <h4>User Details</h4>
+    <hr />
+    <dl class="row">
+        @Html.HiddenFor(x => x.Id)
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PhoneNumber)
+        </dd>
+    
+
+        
+    </dl>
+    <table class="">
+        <thead>
+            <tr>
+                <th scope="col">@Html.DisplayNameFor(model => model.Roles)</th>
+            </tr>
+        </thead>
+        <tbody>
+                @{int i = 1; }
+                @foreach (var item in Model.Roles)
+                {
+                    <tr>
+                        <th scope="row">@i</th>
+                        <td>@Html.DisplayFor(model => item.Name)</td>
+                    </tr>
+                    {i++; }
+                }
+
+        </tbody>
+    </table>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    <a asp-action="Index">Back to List</a>
+</div>

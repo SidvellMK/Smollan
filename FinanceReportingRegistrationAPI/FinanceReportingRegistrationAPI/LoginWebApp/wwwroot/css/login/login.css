@@ -1,0 +1,31 @@
+﻿.loginContainer{
+    width: 100%;
+    min-height: 70vh;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    position: relative;
+    z-index: 1;
+}
+
+.innerContainer {
+    border-radius: 5px;
+    border: solid 1px #00264d;
+    height: auto;
+    width: 70%;
+    padding: 15px;
+}
+
+.loginContainer input{
+    width : 100%
+}
+
+.loginClass {
+    background-color: #00264d;
+}
