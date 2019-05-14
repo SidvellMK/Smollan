@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>Reports</h3>
+
+<ul class="nav nav-tabs" role="tablist">
+    <li class="nav-item">
+        <a class="nav-link active" data-toggle="tab" href="#creditCard" role="tab" id="creditReportTab">Credit Card</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#cellular" role="tab" id="cellularReportTab">Cellular</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#fleet" role="tab" id="fleetReportTab">Fleet</a>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#payroll" role="tab" id="payrollReportTab">Payroll</a>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#procurement" role="tab" id="procurementReportTab">Procurement</a>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link" data-toggle="tab" href="#travel" role="tab" id="travelReportTab">Travel</a>
+    </li>
+</ul>
+
+<div class="tab-content">
+    <div class="tab-pane fade active show" id="creditCard">
+        <div id="creditCard-view"></div>
+    </div>
+
+    <div class="tab-pane fade" id="cellular">
+        <div id="cellular-view"></div>
+    </div>
+
+    <div class="tab-pane fade" id="fleet">
+        <div id="fleet-view"></div>
+    </div>
+
+    <div class="tab-pane fade" id="payroll">
+        <div id="payroll-view"></div>
+    </div>
+
+    <div class="tab-pane fade" id="procurement">
+        <div id="procurement-view"></div>
+    </div>
+
+    <div class="tab-pane fade" id="travel">
+        <div id="travel-view"></div>
+    </div>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/js/reports.js"></script>
