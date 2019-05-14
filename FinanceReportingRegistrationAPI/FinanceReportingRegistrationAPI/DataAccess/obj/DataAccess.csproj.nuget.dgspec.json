@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
         "projectPath": "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\dikote.sidwell\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Prince.Tinashe\\.nuget\\packages\\",
         "outputPath": "C:\\Projects\\Smollan\\FinanceReportingRegistrationAPI\\FinanceReportingRegistrationAPI\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\dikote.sidwell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Prince.Tinashe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
