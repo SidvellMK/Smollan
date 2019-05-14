@@ -12,5 +12,10 @@ namespace LoginWebApp.Controllers
         {
             return View();
         }
+
+        public IActionResult SellPogba()
+        {
+            return View();
+        }
     }
 }
