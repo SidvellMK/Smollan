@@ -164,3 +164,10 @@ C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistration
 C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\LoginWebApp\obj\Debug\netcoreapp2.2\LoginWebApp.csproj.CopyComplete
 C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\LoginWebApp\obj\Debug\netcoreapp2.2\LoginWebApp.dll
 C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\LoginWebApp\obj\Debug\netcoreapp2.2\LoginWebApp.pdb
+C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\LoginWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Reports\_CreditCard.g.cshtml.cs
+C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\LoginWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Reports\Index.g.cshtml.cs
+C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\LoginWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Reports\_Fleet.g.cshtml.cs
+C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\LoginWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Reports\_Payroll.g.cshtml.cs
+C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\LoginWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Reports\_Travel.g.cshtml.cs
+C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\LoginWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Reports\_Cellular.g.cshtml.cs
+C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\LoginWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Reports\_Procurement.g.cshtml.cs

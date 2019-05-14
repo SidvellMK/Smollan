@@ -13,9 +13,40 @@ namespace LoginWebApp.Controllers
             return View();
         }
 
-        public IActionResult SellPogba()
+        [HttpGet]
+        public IActionResult CreditCard()
         {
-            return View();
+            return PartialView("_CreditCard");
+        }
+
+        [HttpGet]
+        public IActionResult Cellular()
+        {
+            return PartialView("_Cellular");
+        }
+
+        [HttpGet]
+        public IActionResult Fleet()
+        {
+            return PartialView("_Fleet");
+        }
+
+        [HttpGet]
+        public IActionResult Payroll()
+        {
+            return PartialView("_Payroll");
+        }
+
+        [HttpGet]
+        public IActionResult Procurement()
+        {
+            return PartialView("_Procurement");
+        }
+
+        [HttpGet]
+        public IActionResult Travel()
+        {
+            return PartialView("_Travel");
         }
     }
 }
