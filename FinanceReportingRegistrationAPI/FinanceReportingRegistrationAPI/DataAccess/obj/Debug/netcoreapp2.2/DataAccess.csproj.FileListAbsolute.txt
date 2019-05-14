@@ -39,4 +39,3 @@ C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistration
 C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfo.cs
 C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.dll
 C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.pdb
-C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csprojAssemblyReference.cache
