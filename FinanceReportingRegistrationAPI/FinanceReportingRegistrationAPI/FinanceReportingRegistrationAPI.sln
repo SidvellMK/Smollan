@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginAPIUnitTests", "LoginAPIUnitTests\LoginAPIUnitTests.csproj", "{72C9AB2E-8BED-471D-A3CB-7970EDF93AAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginWebApp", "LoginWebApp\LoginWebApp.csproj", "{2087B562-333F-48A0-9B3F-30C36ACE6F87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginWebApp", "LoginWebApp\LoginWebApp.csproj", "{2087B562-333F-48A0-9B3F-30C36ACE6F87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCardReportsAPI", "CreditCardReportsAPI\CreditCardReportsAPI.csproj", "{5EC50F4E-9296-4CC7-8AC8-E102772ADD95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{2087B562-333F-48A0-9B3F-30C36ACE6F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2087B562-333F-48A0-9B3F-30C36ACE6F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2087B562-333F-48A0-9B3F-30C36ACE6F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC50F4E-9296-4CC7-8AC8-E102772ADD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC50F4E-9296-4CC7-8AC8-E102772ADD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC50F4E-9296-4CC7-8AC8-E102772ADD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC50F4E-9296-4CC7-8AC8-E102772ADD95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
