@@ -19,6 +19,20 @@
                 $("#creditCard-view").html(data);
             }
         });
+
+        loadUploadReport();
+    }
+
+    function loadUploadReport() {
+        var baseUrl = window.location.origin;
+        $.ajax({
+            type: "GET",
+            url: baseUrl + "/Reports/UploadReport",
+            contentType: "application/json; charset=utf-8",
+            success: function (data) {
+                $("#uploadReport-view").html(data);
+            }
+        });
     }
 
     // Cellular

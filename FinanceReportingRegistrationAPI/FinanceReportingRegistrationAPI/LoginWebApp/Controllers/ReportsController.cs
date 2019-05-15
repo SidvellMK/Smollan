@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LoginWebApp.Controllers
@@ -17,6 +18,23 @@ namespace LoginWebApp.Controllers
         public IActionResult CreditCard()
         {
             return PartialView("_CreditCard");
+        }
+
+        [HttpPost]
+        public IActionResult UploadReport(IFormFile file)
+        {
+            if (file == null)
+            {
+                return View();
+            }
+
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult UploadReport()
+        {
+            return PartialView("_UploadReport");
         }
 
         [HttpGet]
