@@ -29,13 +29,3 @@ C:\Projects\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\Data
 C:\Projects\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfo.cs
 C:\Projects\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.dll
 C:\Projects\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.pdb
-C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.deps.json
-C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.runtimeconfig.json
-C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.runtimeconfig.dev.json
-C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.dll
-C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.pdb
-C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csproj.CoreCompileInputs.cache
-C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfoInputs.cache
-C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfo.cs
-C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.dll
-C:\Projects\Smollan\FinanceReportingRegistrationAPI\FinanceReportingRegistrationAPI\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.pdb
